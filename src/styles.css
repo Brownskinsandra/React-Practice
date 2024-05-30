@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  border: 1px solid rgb(223, 214, 214);
+  padding: 20px;
+}
+.Weather strong{
+  font-size: xxx-large;
+}
